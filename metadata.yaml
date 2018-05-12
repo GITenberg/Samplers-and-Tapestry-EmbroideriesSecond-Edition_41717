@@ -1,0 +1,32 @@
+_repo: Samplers-and-Tapestry-EmbroideriesSecond-Edition_41717
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41717-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Huish, Marcus B. (Marcus Bourne)
+    alias: Huish, Marcus Bourne
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '41324'
+    url: http://www.gutenberg.org/2009/agents/41324
+description: ''
+gutenberg_issued: '2012-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41717'
+  lccn: '14004917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tapestry -- England'
+- !lcsh 'Samplers -- England'
+- !lcsh 'Embroidery -- England'
+- !lcc 'NK'
+title: 'Samplers and Tapestry Embroideries
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/41717
